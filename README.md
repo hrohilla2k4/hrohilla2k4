@@ -1,3 +1,4 @@
+![logo](https://github.com/hrohilla2k4/hrohilla2k4/blob/main/Banner%20Pic.png)
 <h1 align="center">Hi 👋, I'm Harsh Rohilla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
